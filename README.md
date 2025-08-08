@@ -172,3 +172,10 @@ Password: `password`
 Email: `siswa@gmail.com`  
 Password: `password`
 
+**Dokumentasi**
+<img src="gambar/landingpage.png" width="700">
+<img src="gambar/dashboard_pengajar.png" width="400"> <img src="gambar/dashboard_siswa.png" width="400">
+<img src="gambar/manajemen_materi.png" width="400"> <img src="gambar/manajemen_siswa.png" width="400">
+<img src="gambar/manajemen_tugas.png" width="400"> <img src="gambar/materi_siswa.png" width="400">
+<img src="gambar/tugas_siswa.png" width="400"> <img src="gambar/forum_diskusi.png" width="400">
+
